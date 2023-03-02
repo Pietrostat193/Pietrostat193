@@ -2,7 +2,7 @@
 - 👀 I’m interested in "Data Fusion" and heteroscedastic spatio-temporal models
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
-- 📫 You can reach me at pietro.colombo@unibg.it
+- 📫 You can reach me at pietro.colombo@glasgow.ac.uk
 
 <!---
 Pietrostat193/Pietrostat193 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
