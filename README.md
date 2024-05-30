@@ -32,7 +32,7 @@ Overall, I am deeply committed to advancing knowledge, promoting innovation, and
 
 - **Competitive Sport**: Boxing (Regional Heavyweight final 2021)
 - **Interests**: Boxing, Football, Politics, Meditation, Cold Plunge
-- **Residence Permit**: L-Permit (Switzerland)
+
 
 ## Contacts
   
