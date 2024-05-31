@@ -6,7 +6,7 @@ I am a Maclaurin scholar at University of Glasgow, with 4 years of experience in
 In addition to my research, I am committed to excellence in teaching. I have taught courses at both the undergraduate and graduate levels. I am also actively involved in providing statistical consultancy service to both private and public organizations. I recently helped the SUERC Radiocarbon Laboratory, while in the past I have collaborating with the Italian research institutes IRS (Institute for Social research) and CREA (National Agriculture Institute). 
 Overall, I am deeply committed to advancing knowledge, promoting innovation, and making meaningful contributions to my discipline and society.
 
-## Contributions
+## Scientific Contributions
 - ** Interpolation Uncertainty of Humidiy profiles: https://iopscience.iop.org/article/10.1088/1361-6501/ac5bff
 - ** A Multifidelity Framework for wind Speed Data: https://eprints.gla.ac.uk/303346/
 - ** Block BootStrap Adjusted Heteroschedastic Gaussian Process: https://dse.unibg.it/it/eventi/block-bootstrap-adjusted-heteroscedatic-gaussian-process-pietro-colombo-university-of-glasgow
