@@ -11,6 +11,11 @@ Overall, I am deeply committed to advancing knowledge, promoting innovation, and
 - ** A Multifidelity Framework for wind Speed Data: https://eprints.gla.ac.uk/303346/
 - ** Block BootStrap Adjusted Heteroschedastic Gaussian Process: https://dse.unibg.it/it/eventi/block-bootstrap-adjusted-heteroscedatic-gaussian-process-pietro-colombo-university-of-glasgow
 
+## Active Projects
+- Warped multifidelity Gaussian processes for data fusion of skewed environmental data
+- Gaussian Process for massively distributed femtosatellite mission for environmental monitoring
+- Atlantic hurricane forecasting
+- Approximation for methods for multifidelity models
 ## Additional Information
 
 - **Competitive Sport**: Boxing (Regional Heavyweight final 2021)
