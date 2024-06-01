@@ -15,7 +15,7 @@ Overall, I am deeply committed to advancing knowledge, promoting innovation, and
 - Warped multifidelity Gaussian processes for data fusion of skewed environmental data
 - Gaussian Process for massively distributed femtosatellite mission for environmental monitoring
 - Atlantic hurricane forecasting
-- Approximation for methods for multifidelity models
+- Approximation methods for multifidelity models
 ## Additional Information
 
 - **Competitive Sport**: Boxing (Regional Heavyweight final 2021)
