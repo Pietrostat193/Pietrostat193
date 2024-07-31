@@ -10,9 +10,9 @@ Overall, I am deeply committed to advancing knowledge, promoting innovation, and
 - ** Interpolation Uncertainty of Humidiy profiles: https://iopscience.iop.org/article/10.1088/1361-6501/ac5bff
 - ** A Multifidelity Framework for wind Speed Data: https://eprints.gla.ac.uk/303346/
 - ** Block BootStrap Adjusted Heteroschedastic Gaussian Process: https://dse.unibg.it/it/eventi/block-bootstrap-adjusted-heteroscedatic-gaussian-process-pietro-colombo-university-of-glasgow
-
+- 
 ## Active Projects
-- Warped multifidelity Gaussian processes for data fusion of skewed environmental data
+- Warped multifidelity Gaussian processes for data fusion of skewed environmental data (https://arxiv.org/abs/2407.20295)
 - Gaussian Process for massively distributed femtosatellite mission for environmental monitoring
 - Atlantic hurricane forecasting
 - Approximation methods for multifidelity models
