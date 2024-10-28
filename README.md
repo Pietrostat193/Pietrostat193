@@ -12,7 +12,7 @@ Overall, I am deeply committed to advancing knowledge, promoting innovation, and
 - 
 ## Active Projects
 - Warped multifidelity Gaussian processes for data fusion of skewed environmental data (https://arxiv.org/abs/2407.20295)
-- Gaussian Process for massively distributed femtosatellite mission for environmental monitoring
+- Gaussian Process for massively distributed femtosatellite mission for environmental monitoring (https://iafastro.directory/iac/paper/id/87926/summary/)
 - Atlantic hurricane forecasting
 - Approximation methods for multifidelity models
 ## Additional Information
