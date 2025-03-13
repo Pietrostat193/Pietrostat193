@@ -15,6 +15,7 @@ Overall, I am deeply committed to advancing knowledge, promoting innovation, and
 - Gaussian Process for massively distributed femtosatellite mission for environmental monitoring (https://iafastro.directory/iac/paper/id/87926/summary/) (Stage: Published on conference proceeding, waiting for a journal submission)
 (Stage: under minor revision)
 - Approximation methods for multifidelity models (Stage: Writing the paper)
+- Sequestering Carbon through Forests, AgriCulture, and land use (Scarface)  see the following website for more info (https://www.paolomaranzano.net/scarface)
 ## Additional Information
 
 - **Competitive Sport**: Boxing (Regional Heavyweight final 2021)
