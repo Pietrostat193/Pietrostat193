@@ -10,7 +10,7 @@ Overall, I am deeply committed to advancing knowledge, promoting innovation, and
 - ** A Multifidelity Framework for wind Speed Data: https://eprints.gla.ac.uk/303346/
 - ** Block BootStrap Adjusted Heteroschedastic Gaussian Process: https://dse.unibg.it/it/eventi/block-bootstrap-adjusted-heteroscedatic-gaussian-process-pietro-colombo-university-of-glasgow
 - ** Warped multifidelity Gaussian processes for data fusion of skewed environmental data (https://eprints.gla.ac.uk/344662/)
-- Atlantic hurricane forecasting  (forthcoming)
+- Atlantic hurricane forecasting  (https://onlinelibrary.wiley.com/doi/full/10.1002/env.70009)
 ## Active Projects
 - Gaussian Process for massively distributed femtosatellite mission for environmental monitoring (https://iafastro.directory/iac/paper/id/87926/summary/) (Stage: Published on conference proceeding, waiting for a journal submission)
 (Stage: under minor revision)
