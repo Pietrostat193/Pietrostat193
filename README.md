@@ -18,6 +18,8 @@ Overall, I am deeply committed to advancing knowledge, promoting innovation, and
 -A  Robust Statistical Downscaling Method for environmental data(Stage: Writing the paper)
 - Sequestering Carbon through Forests, AgriCulture, and land use (Scarface)  see the following website for more info (https://www.paolomaranzano.net/scarface)
 - Robusteness of Short-term to midterm weather-to-power conversion forecasting.
+- Building a Forecasting Platform
+- Forecastast Reconciliantion of Wind-speed Energy time-series production
 ## Additional Information
 
 - **Competitive Sport**: Boxing (Regional Heavyweight final 2021)
