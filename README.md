@@ -11,11 +11,11 @@ Overall, I am deeply committed to advancing knowledge, promoting innovation, and
 - ** Block BootStrap Adjusted Heteroschedastic Gaussian Process: https://dse.unibg.it/it/eventi/block-bootstrap-adjusted-heteroscedatic-gaussian-process-pietro-colombo-university-of-glasgow
 - ** Warped multifidelity Gaussian processes for data fusion of skewed environmental data (https://eprints.gla.ac.uk/344662/)
 - Atlantic hurricane forecasting  (https://onlinelibrary.wiley.com/doi/full/10.1002/env.70009)
+- - Gaussian Process for massively distributed femtosatellite mission for environmental monitoring (https://iafastro.directory/iac/paper/id/87926/summary/)
+  - 
 ## Active Projects
-- Gaussian Process for massively distributed femtosatellite mission for environmental monitoring (https://iafastro.directory/iac/paper/id/87926/summary/) (Stage: Published on conference proceeding, waiting for a journal submission)
-(Stage: under minor revision)
-- Approximation methods for multifidelity models, a statistical downscaling method for large spatio-temporal dataset (Stage: Writing the paper)
--A  Robust Statistical Downscaling Method for environmental data(Stage: Writing the paper)
+- Approximation methods for multifidelity models, a statistical downscaling method for large spatio-temporal dataset (Stage: Under revision)
+-A  Robust Statistical Downscaling Method for environmental data(Stage: Underevision)
 - Sequestering Carbon through Forests, AgriCulture, and land use (Scarface)  see the following website for more info (https://www.paolomaranzano.net/scarface)
 - Robusteness of Short-term to midterm weather-to-power conversion forecasting.
 - Building a Forecasting Platform
